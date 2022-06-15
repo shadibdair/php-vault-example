@@ -3,7 +3,7 @@
 This example is used to showcase Kubernetes Hashicorp Vault Secrets injections.
 
 ## Clone this repo
-` git clone https://github.com/sidd-harth/php-vault-example.git `
+` git clone https://github.com/shadibdair/php-vault-example.git `
 
 ## Build PHP Docker Image
 ` docker build -t php:vault . `
